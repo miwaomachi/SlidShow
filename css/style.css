@@ -1,0 +1,38 @@
+body {
+  text-align : center;
+}
+.main img {
+  width : 40%;
+  vertical-align: middle;
+}
+.navi {
+  text-align: center;
+}
+button {
+  margin: 10px auto;
+  font-size: 50px;
+  color: rgb(62, 46, 37);
+  border: none;
+  outline: none;
+  background: transparent;
+}
+.title {
+  font-size: 40px;
+  font-family: 'Kaisei Opti', serif;
+  color: rgb(62, 46, 37);
+  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #e8ffe0;
+}
+.thumbnails .selected {
+  opacity: 1.0;
+}
+
+.explanation{
+  font-family: 'Kiwi Maru', serif;
+  font-size: 20px;
+  margin: 50px;
+  color: rgb(62, 46, 37);
+  text-decoration: underline;
+}
